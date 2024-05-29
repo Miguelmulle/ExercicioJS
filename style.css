@@ -17,6 +17,12 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+body {
+    background-image: url(gifusado.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 button {
     padding: 10px 20px;
     font-size: 30px;
